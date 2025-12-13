@@ -1,0 +1,114 @@
+** Drc report for CNC-BOT ESP32 - copia.kicad_pcb **
+** Created on 2025-11-19T20:12:07-0500 **
+
+** Found 30 DRC violations **
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 103.0200 mm): Segmento of D2 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(195.0350 mm, 103.4200 mm): Segmento of D2 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 103.4200 mm): Segmento of D2 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 106.5400 mm): Segmento of D2 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 95.5200 mm): Segmento of D3 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(195.0350 mm, 95.9200 mm): Segmento of D3 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 95.9200 mm): Segmento of D3 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 99.0400 mm): Segmento of D3 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 110.5200 mm): Segmento of D1 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(195.0350 mm, 110.9200 mm): Segmento of D1 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 110.9200 mm): Segmento of D1 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(193.9150 mm, 114.0400 mm): Segmento of D1 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(125.9425 mm, 140.3000 mm): Segmento of J2 on F.Silkscreen
+[silk_edge_clearance]: Serigrafía recortada por el borde de la placa
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(104.9500 mm, 81.4750 mm): Rectángulo en Edge.Cuts
+    @(135.1425 mm, 131.5000 mm): Segmento of J2 on F.Silkscreen
+[lib_footprint_mismatch]: La huella 'R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' no coincide con la copia en la biblioteca 'Resistor_THT'.
+    Anulación local; warning
+    @(183.8100 mm, 113.5000 mm): Huella R1
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9750 mm, 103.5000 mm): Huella J7
+[lib_footprint_mismatch]: La huella 'LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm' no coincide con la copia en la biblioteca 'LED_THT'.
+    Anulación local; warning
+    @(187.6250 mm, 106.2500 mm): Huella D2
+[lib_footprint_mismatch]: La huella 'CP_Radial_D10.0mm_P5.00mm' no coincide con la copia en la biblioteca 'Capacitor_THT'.
+    Anulación local; warning
+    @(116.5000 mm, 90.5000 mm): Huella C1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'devkit'.
+    Anulación local; warning
+    @(154.2500 mm, 111.0000 mm): Huella U1
+[lib_footprint_mismatch]: La huella 'R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' no coincide con la copia en la biblioteca 'Resistor_THT'.
+    Anulación local; warning
+    @(184.1200 mm, 106.1900 mm): Huella R2
+[lib_footprint_mismatch]: La huella 'CP_Radial_D10.0mm_P5.00mm' no coincide con la copia en la biblioteca 'Capacitor_THT'.
+    Anulación local; warning
+    @(117.8677 mm, 126.5000 mm): Huella C3
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9600 mm, 115.5000 mm): Huella J5
+[lib_footprint_mismatch]: La huella 'LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm' no coincide con la copia en la biblioteca 'LED_THT'.
+    Anulación local; warning
+    @(187.6250 mm, 98.7500 mm): Huella D3
+[lib_footprint_mismatch]: La huella 'LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm' no coincide con la copia en la biblioteca 'LED_THT'.
+    Anulación local; warning
+    @(187.6250 mm, 113.7500 mm): Huella D1
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9350 mm, 99.5000 mm): Huella J8
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9750 mm, 107.5000 mm): Huella J6
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9750 mm, 119.5000 mm): Huella J10
+[lib_footprint_mismatch]: La huella 'R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' no coincide con la copia en la biblioteca 'Resistor_THT'.
+    Anulación local; warning
+    @(184.0000 mm, 98.6900 mm): Huella R3
+[lib_footprint_mismatch]: La huella 'CP_Radial_D10.0mm_P5.00mm' no coincide con la copia en la biblioteca 'Capacitor_THT'.
+    Anulación local; warning
+    @(116.5000 mm, 106.3677 mm): Huella C2
+[lib_footprint_mismatch]: La huella 'PinHeader_1x03_P2.54mm_Vertical' no coincide con la copia en la biblioteca 'Connector_PinHeader_2.54mm'.
+    Anulación local; warning
+    @(124.9750 mm, 111.5000 mm): Huella J9
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

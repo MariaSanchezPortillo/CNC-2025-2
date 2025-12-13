@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
+%TF.CreationDate,2025-11-26T19:26:54-05:00*%
+%TF.ProjectId,CNC-BOT ESP32 - copia,434e432d-424f-4542-9045-53503332202d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2025-11-26 19:26:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X104950000Y-81475000D02*
+X194450000Y-81475000D01*
+X194450000Y-136975000D01*
+X104950000Y-136975000D01*
+X104950000Y-81475000D01*
+M02*
